@@ -1,0 +1,5 @@
+openpyxl
+pyautogui
+urllib.parse
+webbrowser 
+pillow
